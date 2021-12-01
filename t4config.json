@@ -1,0 +1,55 @@
+{
+  "environments": {
+    "DefoNotProdToStart": "85ec046b-f142-4a4a-b75c-e63fb7572f34"
+  },
+  "assets": {
+    "contentLayouts": [
+      {
+        "id": 16,
+        "projectPath": "content-types/Parallax image/text-parallax"
+      },
+      {
+        "id": 117,
+        "projectPath": "content-types/Two Column Video/text-html"
+      },
+      {
+        "id": 119,
+        "projectPath": "content-types/Gallery Widget/text-html"
+      }
+    ],
+    "pageLayouts": [
+      {
+        "id": 4692,
+        "headerCode": "page-layouts/Alternative Homepage Layout 1/headerCode",
+        "footerCode": "page-layouts/Alternative Homepage Layout 1/footerCode"
+      },
+      {
+        "id": 6,
+        "headerCode": "page-layouts/Inner Page - Left Nav/headerCode",
+        "footerCode": "page-layouts/Inner Page - Left Nav/footerCode"
+      },
+      {
+        "id": 121,
+        "headerCode": "page-layouts/Inner Page - Right Nav/headerCode",
+        "footerCode": "page-layouts/Inner Page - Right Nav/footerCode"
+      }
+    ],
+    "media": [
+      {
+        "id": 4635,
+        "description": "screen.css",
+        "projectPath": "medias/Categorised/Sample Site/Site Assets/CSS/screen.css"
+      },
+      {
+        "id": 4767,
+        "description": "print.css",
+        "projectPath": "medias/Categorised/Sample Site/Site Assets/CSS/print.css"
+      },
+      {
+        "id": 159,
+        "description": "t4-custom.min.js",
+        "projectPath": "medias/Categorised/Sample Site/Site Assets/Javascript/t4-custom.min.js"
+      }
+    ]
+  }
+}
