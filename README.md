@@ -8,3 +8,4 @@ The Git Integration Tool lets you use a third-party versioning system to manage 
 - A Git Repository. We support GitHub (Cloud) and Bitbucket (Cloud)
 - A Terminalfour Test instance. You'll need Terminalfour ≥ 8.3.4 to use the Token Authentication methods.
 
+# We can use this to integrate with multiple instances of Terminalfour, such as dev and test envonrments too
