@@ -3,43 +3,8 @@
     "MyDemoEnvironment": "e6db96ff-400d-47ee-afce-e4fe85b164f0"
   },
   "assets": {
-    "contentLayouts": [
-      {
-        "id": 16,
-        "projectPath": "content-types/Parallax image/text-parallax"
-      },
-      {
-        "id": 115,
-        "projectPath": "content-types/General Content/text-html"
-      },
-      {
-        "id": 116,
-        "projectPath": "content-types/General Content/text-sidebar"
-      }
-    ],
-    "pageLayouts": [
-      {
-        "id": 5,
-        "headerCode": "page-layouts/Homepage/headerCode",
-        "footerCode": "page-layouts/Homepage/footerCode"
-      },
-      {
-        "id": 6,
-        "headerCode": "page-layouts/Inner Page - Left Nav/headerCode",
-        "footerCode": "page-layouts/Inner Page - Left Nav/footerCode"
-      }
-    ],
-    "media": [
-      {
-        "id": 4635,
-        "description": "screen.css",
-        "projectPath": "medias/Categorised/Sample Site/Site Assets/CSS/screen.css"
-      },
-      {
-        "id": 4767,
-        "description": "print.css",
-        "projectPath": "medias/Categorised/Sample Site/Site Assets/CSS/print.css"
-      }
-    ]
+    "contentLayouts": [],
+    "pageLayouts": [],
+    "media": []
   }
 }
