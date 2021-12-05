@@ -1,10 +1,27 @@
 {
   "environments": {
-    "MyDemoEnvironment": "e6db96ff-400d-47ee-afce-e4fe85b164f0"
+    "TestEnvironment": "86fdcae4-5391-46e6-b816-b9ef88e37335"
   },
   "assets": {
-    "contentLayouts": [],
-    "pageLayouts": [],
-    "media": []
+    "contentLayouts": [
+      {
+        "id": 119,
+        "projectPath": "content-types/Gallery Widget/text-html"
+      }
+    ],
+    "pageLayouts": [
+      {
+        "id": 2290,
+        "headerCode": "page-layouts/Blank PHP/headerCode",
+        "footerCode": "page-layouts/Blank PHP/footerCode"
+      }
+    ],
+    "media": [
+      {
+        "id": 4783,
+        "description": "slick.min.css",
+        "projectPath": "medias/Categorised/Sample Site/Site Assets/CSS/slick.css"
+      }
+    ]
   }
 }
