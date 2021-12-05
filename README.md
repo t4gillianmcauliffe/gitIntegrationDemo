@@ -1,34 +1,10 @@
 # The Wonderful Git Integration Demo
 
-Foobar is a Python library for dealing with word pluralization.
+The Git Integration Tool lets you use a third-party versioning system to manage Terminalfour assets. This lets teams work on Page and Content Layouts as well as Media Items in the editor of their choice using a technology of their choice. So, if you create your stylesheet with Sass and then compile it to CSS you could set up a workflow that pushes the compiled CSS to a Git repository which is then deployed to your Terminalfour instance - automatically.
 
-## Installation
+## How does it work?
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+### What you need
+- A Git Repository. We support GitHub (Cloud) and Bitbucket (Cloud)
+- A Terminalfour Test instance. You'll need Terminalfour ≥ 8.3.4 to use the Token Authentication methods.
 
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
